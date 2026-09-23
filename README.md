@@ -26,7 +26,10 @@ The script (`analytics_db.sql`) is divided into logical steps to simulate a real
 3. Open the `analytics_db.sql` file.
 4. Execute the script from top to bottom to create the database, insert the data, and view the query results.
 
-## 👤 Author
-**Bayzid Mostak**  
-Aspiring Software & Web Developer | Sylhet, Bangladesh  
-Passionate about building robust backend logic and exploring data relationships.
+## 👨‍💻 Author
+
+**Bayzid Mostak**<br>
+*Data Analyst & Visualization Expert*
+
+*   [LinkedIn] https://www.linkedin.com/in/bayzid-mostak-data-analyst/
+*   [GitHub] https://github.com/TusharAlBayzid
